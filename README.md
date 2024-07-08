@@ -6,6 +6,7 @@ computer vison과 image processing 그리고 autonomous관한 모든 것.
 common: 팀프로젝트
 
 person: 개인프로젝트
+```
 ㄴdavid
   ㄴ 논문 재현
     ㄴ autonomous - driving
@@ -15,3 +16,4 @@ person: 개인프로젝트
   ㄴ Computer Vison
 ㄴ(김요한)
 ㄴ(김태우)
+```
