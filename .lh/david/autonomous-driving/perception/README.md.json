@@ -1,0 +1,34 @@
+{
+    "sourceFile": "david/autonomous-driving/perception/README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 4,
+            "patches": [
+                {
+                    "date": 1720745330722,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1720745545602,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,7 +2,8 @@\n \n \n # object Detection\n \n+[complex-yolo](\"david/autonomous-driving/lidar/README.md ## object_detection_for_PointCloud\")\n \n # semantic Segmentation\n \n"
+                },
+                {
+                    "date": 1720745614038,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,8 +2,8 @@\n \n \n # object Detection\n \n-[complex-yolo](\"david/autonomous-driving/lidar/README.md ## object_detection_for_PointCloud\")\n+[complex-yolo](\"~/david/autonomous-driving/lidar/README\")\n \n # semantic Segmentation\n \n"
+                },
+                {
+                    "date": 1720745641901,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,8 +2,8 @@\n \n \n # object Detection\n \n-[complex-yolo](\"~/david/autonomous-driving/lidar/README\")\n+[complex-yolo](~/david/autonomous-driving/lidar/README)\n \n # semantic Segmentation\n \n"
+                },
+                {
+                    "date": 1720745754309,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,8 +2,8 @@\n \n \n # object Detection\n \n-[complex-yolo](~/david/autonomous-driving/lidar/README)\n+[complex-yolo](/home/mira/Desktop/AIRobot/david/autonomous-driving/lidar/README.md)\n \n # semantic Segmentation\n \n"
+                }
+            ],
+            "date": 1720745330722,
+            "name": "Commit-0",
+            "content": "# face Recognition\n\n\n# object Detection\n\n\n# semantic Segmentation\n\n"
+        }
+    ]
+}

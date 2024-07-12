@@ -9,7 +9,7 @@ person: 개인프로젝트
 ```
 ㄴ데이비드
  ㄴ 논문 재현
- ㄴ 자율주행
+ ㄴ autonomous-driving
  ㄴ 로봇(ros2)
  ㄴ 비손이 있는 lllm
  ㄴ ros2(자율주행 모빌리티)
