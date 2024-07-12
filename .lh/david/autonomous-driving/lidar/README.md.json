@@ -1,0 +1,22 @@
+{
+    "sourceFile": "david/autonomous-driving/lidar/README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1720745332614,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1720745755444,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,2 +1,2 @@\n-## object detection for PointCloud\n+## object_detection_for_PointCloud\n - Complex-yolo\n"
+                }
+            ],
+            "date": 1720745332614,
+            "name": "Commit-0",
+            "content": "## object detection for PointCloud\n- Complex-yolo\n"
+        }
+    ]
+}
