@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 3,
+            "activePatchIndex": 6,
             "patches": [
                 {
                     "date": 1722670729344,
@@ -20,6 +20,18 @@
                 {
                     "date": 1722670783987,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,5 @@\n # paper_UNet.ipynb\r\n [detail_contents](https://www.notion.so/UNet-f77b46b481eb48fa880b4fd2279b4593#e6dc9b52192c43f5bfcb7d73038f80de)\r\n \r\n-# \n\\ No newline at end of file\n+# automousDriving_Competition_2dss.ipynb\r\n+[detail_contents]()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1722760392727,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,8 @@\n+# automousDriving_Competition_2dss.ipynb\r\n+[detail_contents]()\r\n+\r\n # paper_UNet.ipynb\r\n [detail_contents](https://www.notion.so/UNet-f77b46b481eb48fa880b4fd2279b4593#e6dc9b52192c43f5bfcb7d73038f80de)\r\n\\ No newline at end of file\n \r\n-# automousDriving_Competition_2dss.ipynb\r\n-[detail_contents]()\n+# paper_.ipynb\r\n+[detail_contents](https://www.notion.so/UNet-f77b46b481eb48fa880b4fd2279b4593#e6dc9b52192c43f5bfcb7d73038f80de)\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1722760413743,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,6 +3,6 @@\n \r\n # paper_UNet.ipynb\r\n [detail_contents](https://www.notion.so/UNet-f77b46b481eb48fa880b4fd2279b4593#e6dc9b52192c43f5bfcb7d73038f80de)\r\n \r\n-# paper_.ipynb\r\n-[detail_contents](https://www.notion.so/UNet-f77b46b481eb48fa880b4fd2279b4593#e6dc9b52192c43f5bfcb7d73038f80de)\n\\ No newline at end of file\n+# paper_Deeplabv3+.ipynb\r\n+[detail_contents]()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1722760427226,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,5 +4,5 @@\n # paper_UNet.ipynb\r\n [detail_contents](https://www.notion.so/UNet-f77b46b481eb48fa880b4fd2279b4593#e6dc9b52192c43f5bfcb7d73038f80de)\r\n \r\n # paper_Deeplabv3+.ipynb\r\n-[detail_contents]()\n\\ No newline at end of file\n+[detail_contents](https://www.notion.so/DeepLabv3-f4b84d895b2c4ba7855418888e235dad#ea8ab5cef58247a0b42f645f1b9d2e04)\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1722670729344,
