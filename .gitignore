@@ -164,4 +164,8 @@ cython_debug/
 
 test/
 training/
+<<<<<<< HEAD
 validation/
+=======
+validation/
+>>>>>>> bb2ca9f4289118ef91a2829702b7620005ca279c
